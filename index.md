@@ -1,7 +1,7 @@
 # Privacy Policy — Lumen Harbor
 
 **Effective date:** October 22, 2026  
-**Last updated:** October 22, 2026
+**Last updated:** November 7, 2026
 
 ## 1. Introduction
 
@@ -105,11 +105,3 @@ For privacy-related questions or requests, contact the developer:
 **App:** Lumen Harbor  
 **Developer / Data Controller:** Shubham Gupta  
 **Email:** hematiterosary@gmail.com
-
-**Postal address:**  
-Huizenerstr. 60  
-Room C 611 (6th floor)  
-Frankfurt am Main  
-Germany
-
-
